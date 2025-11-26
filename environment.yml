@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+name: about_Lana_agent
+channels:
+  - defaults
+dependencies:
+  - python
+=======
+name: about_Lana_agent
+channels:
+  - defaults
+dependencies:
+  - python
+>>>>>>> dbd1d3e9f4875fce2fafcd6751b3d66721d79d4b
+  - notebook
